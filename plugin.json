@@ -1,5 +1,5 @@
 {
-  "id": "query_azure_training_data",
+  "id": "query_training_data",
   "uuid": "119d947f-e466-46cb-8f6c-ece59ff81990",
   "userSettings": [
     {
@@ -32,7 +32,7 @@
   "iconURL": "https://custom.typingmind.com/assets/models/azureopenai.png",
   "title": "Query Azure Training Data",
   "openaiSpec": {
-    "name": "search_azure_training_data",
+    "name": "query_training_data",
     "parameters": {
       "type": "object",
       "required": [

@@ -30,7 +30,7 @@
     }
   ],
   "iconURL": "https://custom.typingmind.com/assets/models/azureopenai.png",
-  "title": "Query Azure Training Data",
+  "title": "Query Training Data - Azure AI Search",
   "openaiSpec": {
     "name": "query_training_data",
     "parameters": {

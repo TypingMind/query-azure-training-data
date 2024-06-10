@@ -59,5 +59,6 @@
   },
   "implementationType": "http",
   "system": true,
+  "isServerPlugin": true,
   "outputType": "respond_to_ai"
 }

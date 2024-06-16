@@ -1,3 +1,5 @@
+**Deprecated. Please use https://github.com/TypingMind/plugin-query-azure-training-data instead**
+
 # Query Training Data from Azure AI Search (Cognitive Search)
 
 This plugin connects TypingMind to your training data in Azure AI Search (Cognitive Search).
